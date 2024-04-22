@@ -23,7 +23,7 @@ jQuery( function( $ ) {
                     // to be solved server-side
                     setTimeout( function () {
                         $temp_el.find( ".aal-category" ).change();
-                    }, 300 );
+                    }, 10000 );
                 }
             }
 
